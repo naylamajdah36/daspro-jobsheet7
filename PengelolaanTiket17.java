@@ -3,6 +3,7 @@ public class PengelolaanTiket17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
 
+        //deklarasi variabel
         final int harga = 50000;
         int jumlah, totalTiket = 0;
         double totalPenjualan = 0;
