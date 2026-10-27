@@ -23,6 +23,7 @@ public class SiakadFor17 {
             }
         }
 
+        //menampilkan oiutput
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
         System.out.println("Jumlah siswa yang lulus sebesar: " + lulus + " siswa");
