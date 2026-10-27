@@ -4,6 +4,7 @@ public class KafeDoWhile17 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        //deklarasi variabel
         int kopi, teh, roti;
         String namaPelanggan;
         int hargaKopi = 12000;
@@ -11,6 +12,7 @@ public class KafeDoWhile17 {
         int hargaRoti = 20000;
         int totalHarga;
 
+        //do while
         do {
             System.out.println("Masukkan nama pelanggan (ketik 'batal' untuk keluar): ");
             namaPelanggan = sc.nextLine();
